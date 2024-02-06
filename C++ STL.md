@@ -66,3 +66,13 @@
 - using `list1.erase(it);` to erase single element.
 
 - using `list1.erase(it,it1);` to erase multiple elements.
+
+---
+
+- using `list1.unique()` to remove duplicates from the list. 
+<br>
+**Note :** the list should be sorted before using this function.
+
+- using `list1.splice(list1.begin(), list2);` transfer all the elements of list2.
+
+- using `list2.merge(list1, comparator);` If no comparator is passed in parameter, then it merges two sorted lists into a single sorted list.
