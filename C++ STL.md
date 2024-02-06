@@ -69,8 +69,7 @@
 
 ---
 
-- using `list1.unique()` to remove duplicates from the list. 
-<br>
+- using `list1.unique()` to remove duplicates from the list. <br>
 **Note :** the list should be sorted before using this function.
 
 - using `list1.splice(list1.begin(), list2);` transfer all the elements of list2.
