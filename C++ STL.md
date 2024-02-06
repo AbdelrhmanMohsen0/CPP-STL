@@ -54,6 +54,7 @@
 ---
 - list doesn't use the functions from `#include <algorithm>` library. it has its own functions. so if you want to sort or reverse use : 
 <br>
+
 `list1.sort();` `list1.reverse();` `list1.sort(greater<int>());`
 
 ---
