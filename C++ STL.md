@@ -19,6 +19,7 @@
 - To insert elements at any position of list : <br>
 `insert(POS_ITER, NUMBER_OF_TIMES, ELEMENT)`
 <br>
+
 - How to use Iterator: 
 
 ```c++
@@ -54,6 +55,7 @@
 - list doesn't use the functions from `#include <algorithm>` library. it has its own functions. so if you want to sort or reverse use : 
 <br>
 `list1.sort();` `list1.reverse();` `list1.sort(greater<int>());`
+
 ---
 
 - `list1.remove(ELEMENT);` : Delete all occurrences of this element.
