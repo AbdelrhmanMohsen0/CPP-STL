@@ -1,4 +1,4 @@
 # C++ STL 
-The main Points in C++ STL.
+The main points in C++ STL.
 ## Contents : 
 - List
